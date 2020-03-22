@@ -1,0 +1,202 @@
+body {
+    font-family: 'Montserrat Regular', sans-serif;
+}
+.header {
+    border-bottom: 1px solid #85cecb ;}
+
+ .center {
+     border-top: 1px solid #85cecb;
+     margin-top: 2px;
+    }
+
+
+.header {
+    margin-top: 37px;
+    
+
+}
+.logo {
+    margin-left: 50px;
+    margin-bottom: 47px;
+}
+
+.line {
+    margin-top: 43px;
+}
+
+.center {
+    position: relative;
+}
+.blok-left {
+    padding: 50px 3%;
+    display: inline-block;
+   
+    
+}
+
+.blok-righ {
+    padding: 50px 3%;
+    display: inline-block;
+    vertical-align: top;
+    
+}
+
+.blok-in {
+    width: 540px;
+}
+
+.blok-head {
+    background-color: #b1e0eb;
+    height: 50px;
+    width: 540px;
+    position: relative;
+}
+
+.box-img  {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+}
+
+.box-tex {
+    display: inline-block;
+    width: 240px;
+    height: 14px;
+    position: absolute;
+    top:16px;
+}
+
+.blok-head img {
+    padding: 10px;  
+}
+
+.text-blu {
+    font-family: Montserrat Regular;
+    text-decoration: none;
+    color: #006485;
+    font-weight: 900;
+    display: inline-block;
+    display: block;
+}
+
+.daun-text {
+    margin-top: 27px;
+    width: 440px;
+}
+.daun-text span {
+line-height: 1.5;
+color: #797d83;
+font-family: Montserrat Regular;s
+}
+
+.blok2 {
+margin-top: 44px;
+}
+.girl-drink {
+    position: relative;
+    margin-top:63px;
+    margin-bottom: 60px;
+}
+
+.img-girl {
+display: inline-block;
+}
+
+.txt-girl {
+    display: inline-block;
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 40px;
+    width: 240px;
+}
+
+.txt-girl h2 {
+    color: #38c1da;
+    font-weight: 900;
+    font-size: 15pt;
+    font-family: Montserrat Regular;
+}
+
+.txt-girl p {
+padding-top: 15px;
+color: #797d83;
+line-height: 1.5;
+}
+
+.form input {
+    width: 458px;
+    border: 1px solid #d6d6d6;
+    border-radius: 10px;
+    padding: 17px;
+    font-size: 18px;
+    margin-top: 30px;
+    display: block;
+    margin-left: 30px;
+    
+    
+}
+
+.form {
+   padding: 0;
+}
+
+.pas  {
+    text-align: center;
+    margin-top: 20px;
+    
+    
+}
+
+.pas a {
+    border-bottom: 2px solid #d6d6d6;
+    text-decoration: none;
+    color: #767676;
+}
+.blok-btn {
+    margin: 18px 20%;
+   
+}
+.blok-btn button {
+ 
+display: block;
+  border: none;
+  cursor:pointer;
+  text-align: center;
+  
+  }
+  .blok-btn p {
+    display: block;
+    color: #767676;
+    font-weight: 900;
+    text-align: center;
+    margin: 10px auto 10px auto;
+  }
+  .girl-drink2 {
+    position: relative;
+    margin-top:180px;
+    margin-bottom: 60px;
+}
+
+
+.card {
+    background-color: #b1e0eb;
+    height: 50px;
+    width: 540px;
+    
+}
+
+.card-circle {
+    width: 30px;
+	height: 30px;
+	background: white;
+    border-radius: 50%;
+    display: inline-block;
+   }
+
+.card-title {
+    color: #006485;
+    font-weight: 500;
+    display: inline-block;
+
+}
+
